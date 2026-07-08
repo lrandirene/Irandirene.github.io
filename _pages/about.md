@@ -37,10 +37,10 @@ My name is Liu Run. I recently graduated from Wuhan University with a Bachelor�
 ## 🥇 First & Co-first Author Papers (First / Co-first Author)
 
 ## 🤝 **Collaborative Papers (Contributing Author)**
--[Mitigating Over-Refusal in Aligned Large Language Models via Inference-Time Activation Energy](https://openreview.net/pdf?id=oaBEvGsVQd)
+[Mitigating Over-Refusal in Aligned Large Language Models via Inference-Time Activation Energy](https://openreview.net/pdf?id=oaBEvGsVQd)
 Eric Hanchen Jiang, Weixuan Ou, **Run Liu**, Shengyuan Pang, Guancheng Wan, Ranjie Duan, Wei Dong, Kai-Wei Chang, XiaoFeng Wang, Ying Nian Wu, Xinfeng Li,**ACL 2026**
 
--[Multi-order Orchestrated Curriculum Distillation for Model-Heterogeneous Federated Graph Learning](https://openreview.net/pdf?id=C9653lXaFO)
+[Multi-order Orchestrated Curriculum Distillation for Model-Heterogeneous Federated Graph Learning](https://openreview.net/pdf?id=C9653lXaFO)
 Guancheng Wan, Xu Cheng, **Run Liu**, Wenke Huang, Zitong Shi, Pinyi Jin, Guibin Zhang, Bo Du, Mang Ye,**NeurIPS 2025**
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -58,9 +58,9 @@ Guancheng Wan, Xu Cheng, **Run Liu**, Wenke Huang, Zitong Shi, Pinyi Jin, Guibin
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🧩 **Projects**
-- ### **LLM-Training-Data-Eval: Multi-Modality LLM Training Data Quality Evaluation Framework**
-  [GitHub](https://github.com/lhz191/LLM-Training-Data-Eval)
+- ### **LLM-Training-Data-Eval: Multi-Modality LLM Training Data Quality Evaluation Framework**[GitHub](https://github.com/lhz191/LLM-Training-Data-Eval)
   Open-source two-layer automated evaluation framework for multi-type LLM training data.
+
   **My Core Work**:
   1. Develop the complete image-text multimodal evaluation pipeline, including data loader, format checker, visual quality & cross-modal alignment metrics.
   2. Build a semi-structured knowledge graph evaluation module, supporting structural audit and semantic factual validation for graph triples.
@@ -92,6 +92,4 @@ I am a passionate and open-minded individual who enjoys exploring life and embra
 
 👋 I sincerely look forward to meeting and making friends with people from all walks of life to broaden my horizons. Feel free to reach out — I am always sincere, reliable, and easy to get along with.
 
-My favorite motto:  
-**Having seen the immensity of the world, I still cherish the tenderness of all living things.**  
-（已识乾坤大，犹怜草木青）
+My favorite motto:     **Having seen the immensity of the world, I still cherish the tenderness of all living things.**  （已识乾坤大，犹怜草木青）
